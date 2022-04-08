@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="AnimeTitle">
+        <item>Demon Slayer</item>
+        <item>Attack on Titan</item>
+        <item>Fire Force</item>
+        <item>Overlord</item>
+        <item>Black Clover</item>
+        <item>Tokyo Ghoul</item>
+        <item>Tokyo Revengers</item>
+        <item>The Promised Neverland</item>
+        <item>Ranking of Kings</item>
+        <item>Hunter x Hunter</item>
+        <item>One-Punch man</item>
+        <item>Seven Seadly Sins</item>
+        <item>Vampire Knight</item>
+        <item>Fena: Pirate Princess</item>
+        <item>Attack on Titan</item>
+        <item>Fire Force</item>
+        <item>Yuri!!! On Ice</item>
+        <item>Haikyu!!</item>
+        <item>Death Note</item>
+        <item>Platinum End</item>
+    </string-array>
+    <string-array name="Song">
+        <item>Gurenge</item>
+        <item>The Rumbling</item>
+        <item>Inferno</item>
+        <item>Go Cry Go</item>
+        <item>Black Catcher</item>
+        <item>Unravel</item>
+        <item>Cry Baby</item>
+        <item>Touch Off</item>
+        <item>BOY</item>
+        <item>Departure!</item>
+        <item>The Hero!!</item>
+        <item>Netsujō no Spectrum</item>
+        <item>Futatsu no Kodou to Akai Tsumi</item>
+        <item>Umi to Shinju</item>
+        <item>Shinzou wo Sasageyo!</item>
+        <item>SPARK-AGAIN</item>
+        <item>History Maker</item>
+        <item>Imagination</item>
+        <item>The World</item>
+        <item>Sense</item>
+    </string-array>
+    <string-array name="Season">
+        <item>Temporada 1</item>
+        <item>Temporada 4</item>
+        <item>Temporada 1</item>
+        <item>Temporada 2</item>
+        <item>Opening 5</item>
+        <item>Temporada 1</item>
+        <item>Temporada 1</item>
+        <item>Temporada 1</item>
+        <item>Temporada 1</item>
+        <item>Opening 5</item>
+        <item>Temporada 1</item>
+        <item>Temporada 1</item>
+        <item>Temporada 1</item>
+        <item>Temporada 1</item>
+        <item>Temporada 2</item>
+        <item>Temporada 2</item>
+        <item>Temporada 1</item>
+        <item>Temporada 1</item>
+        <item>Temporada 1</item>
+        <item>Temporada 1</item>
+    </string-array>
+    <string-array name="Band">
+        <item>Lisa</item>
+        <item>SiM</item>
+        <item>Mrs. GREEN APPLE</item>
+        <item>OxT</item>
+        <item>Vickeblanka</item>
+        <item>PelleK</item>
+        <item>Official HIGE DANdism</item>
+        <item>UVERworld</item>
+        <item>King Gnu</item>
+        <item>Masatoshi Ono</item>
+        <item>JAM Project</item>
+        <item>Ikimono-gakari</item>
+        <item>ON/OFF</item>
+        <item>JUNNA</item>
+        <item>Linked Horizon</item>
+        <item>Aimer</item>
+        <item>Dean Fujioka</item>
+        <item>SPYAIR</item>
+        <item>Nightmare</item>
+        <item>BAND-MAID</item>
+    </string-array>
+    <string-array name="linkOp">
+        <item>0MPq9QGUBa4</item>
+        <item>EtjQVqXUPHo</item>
+        <item>JBqxVX_LXvk</item>
+        <item>v4OKxyQdTvg</item>
+        <item>4evV8Fr5A8U</item>
+        <item>7aMOurgDB-o</item>
+        <item>2qbHikwRimU</item>
+        <item>4GDVEl3qw2M</item>
+        <item>s5SSAXK6bQE</item>
+        <item>a-Jttwd1ipI</item>
+        <item>sfFv3MTPdkw</item>
+        <item>oplWNu1slRk</item>
+        <item>TgPFpqI7RgY</item>
+        <item>Zhwzq_KXnC8</item>
+        <item>LKP-vZvjbh8</item>
+        <item>xLGtT8WuidM</item>
+        <item>5u3RGhznctE</item>
+        <item>XS-N8KfZ5EU</item>
+        <item>8QE9cmfxx4s</item>
+        <item>sxqpSZfNEcY</item>
+    </string-array></resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProyectoSegundoParcial</string>
+
+    <string name="menu">MENU</string>
+    <string name="Anime">TituloAnime</string>
+    <string name="song">Cancion</string>
+    <string name="capitulos">Capitulos</string>
+    <string name="temporada">Temporada</string>
+    <string name="banda">Banda</string>
+    <string name="resumen">Sinopsis</string>
+</resources>
